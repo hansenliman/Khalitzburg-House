@@ -1,0 +1,7643 @@
+fileFormatVersion: 2
+guid: 55b8fc4d2b7e0db43989f7006b776e70
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: nightmare_0
+  - first:
+      213: 21300002
+    second: nightmare_1
+  - first:
+      213: 21300004
+    second: nightmare_2
+  - first:
+      213: 21300006
+    second: nightmare_3
+  - first:
+      213: 21300008
+    second: nightmare_4
+  - first:
+      213: 21300010
+    second: nightmare_5
+  - first:
+      213: 21300012
+    second: nightmare_6
+  - first:
+      213: 21300014
+    second: nightmare_7
+  - first:
+      213: 21300016
+    second: nightmare_8
+  - first:
+      213: 21300018
+    second: nightmare_9
+  - first:
+      213: 21300020
+    second: nightmare_10
+  - first:
+      213: 21300022
+    second: nightmare_11
+  - first:
+      213: 21300024
+    second: nightmare_12
+  - first:
+      213: 21300026
+    second: nightmare_13
+  - first:
+      213: 21300028
+    second: nightmare_14
+  - first:
+      213: 21300030
+    second: nightmare_15
+  - first:
+      213: 21300032
+    second: nightmare_16
+  - first:
+      213: 21300034
+    second: nightmare_17
+  - first:
+      213: 21300036
+    second: nightmare_18
+  - first:
+      213: 21300038
+    second: nightmare_19
+  - first:
+      213: 21300040
+    second: nightmare_20
+  - first:
+      213: 21300042
+    second: nightmare_21
+  - first:
+      213: 21300044
+    second: nightmare_22
+  - first:
+      213: 21300046
+    second: nightmare_23
+  - first:
+      213: 21300048
+    second: nightmare_24
+  - first:
+      213: 21300050
+    second: nightmare_25
+  - first:
+      213: 21300052
+    second: nightmare_26
+  - first:
+      213: 21300054
+    second: nightmare_27
+  - first:
+      213: 21300056
+    second: nightmare_28
+  - first:
+      213: 21300058
+    second: nightmare_29
+  - first:
+      213: 21300060
+    second: nightmare_30
+  - first:
+      213: 21300062
+    second: nightmare_31
+  - first:
+      213: 21300064
+    second: nightmare_32
+  - first:
+      213: 21300066
+    second: nightmare_33
+  - first:
+      213: 21300068
+    second: nightmare_34
+  - first:
+      213: 21300070
+    second: nightmare_35
+  - first:
+      213: 21300072
+    second: nightmare_36
+  - first:
+      213: 21300074
+    second: nightmare_37
+  - first:
+      213: 21300076
+    second: nightmare_38
+  - first:
+      213: 21300078
+    second: nightmare_39
+  - first:
+      213: 21300080
+    second: nightmare_40
+  - first:
+      213: 21300082
+    second: nightmare_41
+  - first:
+      213: 21300084
+    second: nightmare_42
+  - first:
+      213: 21300086
+    second: nightmare_43
+  - first:
+      213: 21300088
+    second: nightmare_44
+  - first:
+      213: 21300090
+    second: nightmare_45
+  - first:
+      213: 21300092
+    second: nightmare_46
+  - first:
+      213: 21300094
+    second: nightmare_47
+  - first:
+      213: 21300096
+    second: nightmare_48
+  - first:
+      213: 21300098
+    second: nightmare_49
+  - first:
+      213: 21300100
+    second: nightmare_50
+  - first:
+      213: 21300102
+    second: nightmare_51
+  - first:
+      213: 21300104
+    second: nightmare_52
+  - first:
+      213: 21300106
+    second: nightmare_53
+  - first:
+      213: 21300108
+    second: nightmare_54
+  - first:
+      213: 21300110
+    second: nightmare_55
+  - first:
+      213: 21300112
+    second: nightmare_56
+  - first:
+      213: 21300114
+    second: nightmare_57
+  - first:
+      213: 21300116
+    second: nightmare_58
+  - first:
+      213: 21300118
+    second: nightmare_59
+  - first:
+      213: 21300120
+    second: nightmare_60
+  - first:
+      213: 21300122
+    second: nightmare_61
+  - first:
+      213: 21300124
+    second: nightmare_62
+  - first:
+      213: 21300126
+    second: nightmare_63
+  - first:
+      213: 21300128
+    second: nightmare_64
+  - first:
+      213: 21300130
+    second: nightmare_65
+  - first:
+      213: 21300132
+    second: nightmare_66
+  - first:
+      213: 21300134
+    second: nightmare_67
+  - first:
+      213: 21300136
+    second: nightmare_68
+  - first:
+      213: 21300138
+    second: nightmare_69
+  - first:
+      213: 21300140
+    second: nightmare_70
+  - first:
+      213: 21300142
+    second: nightmare_71
+  - first:
+      213: 21300144
+    second: nightmare_72
+  - first:
+      213: 21300146
+    second: nightmare_73
+  - first:
+      213: 21300148
+    second: nightmare_74
+  - first:
+      213: 21300150
+    second: nightmare_75
+  - first:
+      213: 21300152
+    second: nightmare_76
+  - first:
+      213: 21300154
+    second: nightmare_77
+  - first:
+      213: 21300156
+    second: nightmare_78
+  - first:
+      213: 21300158
+    second: nightmare_79
+  - first:
+      213: 21300160
+    second: nightmare_80
+  - first:
+      213: 21300162
+    second: nightmare_81
+  - first:
+      213: 21300164
+    second: nightmare_82
+  - first:
+      213: 21300166
+    second: nightmare_83
+  - first:
+      213: 21300168
+    second: nightmare_84
+  - first:
+      213: 21300170
+    second: nightmare_85
+  - first:
+      213: 21300172
+    second: nightmare_86
+  - first:
+      213: 21300174
+    second: nightmare_87
+  - first:
+      213: 21300176
+    second: nightmare_88
+  - first:
+      213: 21300178
+    second: nightmare_89
+  - first:
+      213: 21300180
+    second: nightmare_90
+  - first:
+      213: 21300182
+    second: nightmare_91
+  - first:
+      213: 21300184
+    second: nightmare_92
+  - first:
+      213: 21300186
+    second: nightmare_93
+  - first:
+      213: 21300188
+    second: nightmare_94
+  - first:
+      213: 21300190
+    second: nightmare_95
+  - first:
+      213: 21300192
+    second: nightmare_96
+  - first:
+      213: 21300194
+    second: nightmare_97
+  - first:
+      213: 21300196
+    second: nightmare_98
+  - first:
+      213: 21300198
+    second: nightmare_99
+  - first:
+      213: 21300200
+    second: nightmare_100
+  - first:
+      213: 21300202
+    second: nightmare_101
+  - first:
+      213: 21300204
+    second: nightmare_102
+  - first:
+      213: 21300206
+    second: nightmare_103
+  - first:
+      213: 21300208
+    second: nightmare_104
+  - first:
+      213: 21300210
+    second: nightmare_105
+  - first:
+      213: 21300212
+    second: nightmare_106
+  - first:
+      213: 21300214
+    second: nightmare_107
+  - first:
+      213: 21300216
+    second: nightmare_108
+  - first:
+      213: 21300218
+    second: nightmare_109
+  - first:
+      213: 21300220
+    second: nightmare_110
+  - first:
+      213: 21300222
+    second: nightmare_111
+  - first:
+      213: 21300224
+    second: nightmare_112
+  - first:
+      213: 21300226
+    second: nightmare_113
+  - first:
+      213: 21300228
+    second: nightmare_114
+  - first:
+      213: 21300230
+    second: nightmare_115
+  - first:
+      213: 21300232
+    second: nightmare_116
+  - first:
+      213: 21300234
+    second: nightmare_117
+  - first:
+      213: 21300236
+    second: nightmare_118
+  - first:
+      213: 21300238
+    second: nightmare_119
+  - first:
+      213: 21300240
+    second: nightmare_120
+  - first:
+      213: 21300242
+    second: nightmare_121
+  - first:
+      213: 21300244
+    second: nightmare_122
+  - first:
+      213: 21300246
+    second: nightmare_123
+  - first:
+      213: 21300248
+    second: nightmare_124
+  - first:
+      213: 21300250
+    second: nightmare_125
+  - first:
+      213: 21300252
+    second: nightmare_126
+  - first:
+      213: 21300254
+    second: nightmare_127
+  - first:
+      213: 21300256
+    second: nightmare_128
+  - first:
+      213: 21300258
+    second: nightmare_129
+  - first:
+      213: 21300260
+    second: nightmare_130
+  - first:
+      213: 21300262
+    second: nightmare_131
+  - first:
+      213: 21300264
+    second: nightmare_132
+  - first:
+      213: 21300266
+    second: nightmare_133
+  - first:
+      213: 21300268
+    second: nightmare_134
+  - first:
+      213: 21300270
+    second: nightmare_135
+  - first:
+      213: 21300272
+    second: nightmare_136
+  - first:
+      213: 21300274
+    second: nightmare_137
+  - first:
+      213: 21300276
+    second: nightmare_138
+  - first:
+      213: 21300278
+    second: nightmare_139
+  - first:
+      213: 21300280
+    second: nightmare_140
+  - first:
+      213: 21300282
+    second: nightmare_141
+  - first:
+      213: 21300284
+    second: nightmare_142
+  - first:
+      213: 21300286
+    second: nightmare_143
+  - first:
+      213: 21300288
+    second: nightmare_144
+  - first:
+      213: 21300290
+    second: nightmare_145
+  - first:
+      213: 21300292
+    second: nightmare_146
+  - first:
+      213: 21300294
+    second: nightmare_147
+  - first:
+      213: 21300296
+    second: nightmare_148
+  - first:
+      213: 21300298
+    second: nightmare_149
+  - first:
+      213: 21300300
+    second: nightmare_150
+  - first:
+      213: 21300302
+    second: nightmare_151
+  - first:
+      213: 21300304
+    second: nightmare_152
+  - first:
+      213: 21300306
+    second: nightmare_153
+  - first:
+      213: 21300308
+    second: nightmare_154
+  - first:
+      213: 21300310
+    second: nightmare_155
+  - first:
+      213: 21300312
+    second: nightmare_156
+  - first:
+      213: 21300314
+    second: nightmare_157
+  - first:
+      213: 21300316
+    second: nightmare_158
+  - first:
+      213: 21300318
+    second: nightmare_159
+  - first:
+      213: 21300320
+    second: nightmare_160
+  - first:
+      213: 21300322
+    second: nightmare_161
+  - first:
+      213: 21300324
+    second: nightmare_162
+  - first:
+      213: 21300326
+    second: nightmare_163
+  - first:
+      213: 21300328
+    second: nightmare_164
+  - first:
+      213: 21300330
+    second: nightmare_165
+  - first:
+      213: 21300332
+    second: nightmare_166
+  - first:
+      213: 21300334
+    second: nightmare_167
+  - first:
+      213: 21300336
+    second: nightmare_168
+  - first:
+      213: 21300338
+    second: nightmare_169
+  - first:
+      213: 21300340
+    second: nightmare_170
+  - first:
+      213: 21300342
+    second: nightmare_171
+  - first:
+      213: 21300344
+    second: nightmare_172
+  - first:
+      213: 21300346
+    second: nightmare_173
+  - first:
+      213: 21300348
+    second: nightmare_174
+  - first:
+      213: 21300350
+    second: nightmare_175
+  - first:
+      213: 21300352
+    second: nightmare_176
+  - first:
+      213: 21300354
+    second: nightmare_177
+  - first:
+      213: 21300356
+    second: nightmare_178
+  - first:
+      213: 21300358
+    second: nightmare_179
+  - first:
+      213: 21300360
+    second: nightmare_180
+  - first:
+      213: 21300362
+    second: nightmare_181
+  - first:
+      213: 21300364
+    second: nightmare_182
+  - first:
+      213: 21300366
+    second: nightmare_183
+  - first:
+      213: 21300368
+    second: nightmare_184
+  - first:
+      213: 21300370
+    second: nightmare_185
+  - first:
+      213: 21300372
+    second: nightmare_186
+  - first:
+      213: 21300374
+    second: nightmare_187
+  - first:
+      213: 21300376
+    second: nightmare_188
+  - first:
+      213: 21300378
+    second: nightmare_189
+  - first:
+      213: 21300380
+    second: nightmare_190
+  - first:
+      213: 21300382
+    second: nightmare_191
+  - first:
+      213: 21300384
+    second: nightmare_192
+  - first:
+      213: 21300386
+    second: nightmare_193
+  - first:
+      213: 21300388
+    second: nightmare_194
+  - first:
+      213: 21300390
+    second: nightmare_195
+  - first:
+      213: 21300392
+    second: nightmare_196
+  - first:
+      213: 21300394
+    second: nightmare_197
+  - first:
+      213: 21300396
+    second: nightmare_198
+  - first:
+      213: 21300398
+    second: nightmare_199
+  - first:
+      213: 21300400
+    second: nightmare_200
+  - first:
+      213: 21300402
+    second: nightmare_201
+  - first:
+      213: 21300404
+    second: nightmare_202
+  - first:
+      213: 21300406
+    second: nightmare_203
+  - first:
+      213: 21300408
+    second: nightmare_204
+  - first:
+      213: 21300410
+    second: nightmare_205
+  - first:
+      213: 21300412
+    second: nightmare_206
+  - first:
+      213: 21300414
+    second: nightmare_207
+  - first:
+      213: 21300416
+    second: nightmare_208
+  - first:
+      213: 21300418
+    second: nightmare_209
+  - first:
+      213: 21300420
+    second: nightmare_210
+  - first:
+      213: 21300422
+    second: nightmare_211
+  - first:
+      213: 21300424
+    second: nightmare_212
+  - first:
+      213: 21300426
+    second: nightmare_213
+  - first:
+      213: 21300428
+    second: nightmare_214
+  - first:
+      213: 21300430
+    second: nightmare_215
+  - first:
+      213: 21300432
+    second: nightmare_216
+  - first:
+      213: 21300434
+    second: nightmare_217
+  - first:
+      213: 21300436
+    second: nightmare_218
+  - first:
+      213: 21300438
+    second: nightmare_219
+  - first:
+      213: 21300440
+    second: nightmare_220
+  - first:
+      213: 21300442
+    second: nightmare_221
+  - first:
+      213: 21300444
+    second: nightmare_222
+  - first:
+      213: 21300446
+    second: nightmare_223
+  - first:
+      213: 21300448
+    second: nightmare_224
+  - first:
+      213: 21300450
+    second: nightmare_225
+  - first:
+      213: 21300452
+    second: nightmare_226
+  - first:
+      213: 21300454
+    second: nightmare_227
+  - first:
+      213: 21300456
+    second: nightmare_228
+  - first:
+      213: 21300458
+    second: nightmare_229
+  - first:
+      213: 21300460
+    second: nightmare_230
+  - first:
+      213: 21300462
+    second: nightmare_231
+  - first:
+      213: 21300464
+    second: nightmare_232
+  - first:
+      213: 21300466
+    second: nightmare_233
+  - first:
+      213: 21300468
+    second: nightmare_234
+  - first:
+      213: 21300470
+    second: nightmare_235
+  - first:
+      213: 21300472
+    second: nightmare_236
+  - first:
+      213: 21300474
+    second: nightmare_237
+  - first:
+      213: 21300476
+    second: nightmare_238
+  - first:
+      213: 21300478
+    second: nightmare_239
+  - first:
+      213: 21300480
+    second: nightmare_240
+  - first:
+      213: 21300482
+    second: nightmare_241
+  - first:
+      213: 21300484
+    second: nightmare_242
+  - first:
+      213: 21300486
+    second: nightmare_243
+  - first:
+      213: 21300488
+    second: nightmare_244
+  - first:
+      213: 21300490
+    second: nightmare_245
+  - first:
+      213: 21300492
+    second: nightmare_246
+  - first:
+      213: 21300494
+    second: nightmare_247
+  - first:
+      213: 21300496
+    second: nightmare_248
+  - first:
+      213: 21300498
+    second: nightmare_249
+  - first:
+      213: 21300500
+    second: nightmare_250
+  - first:
+      213: 21300502
+    second: nightmare_251
+  - first:
+      213: 21300504
+    second: nightmare_252
+  - first:
+      213: 21300506
+    second: nightmare_253
+  - first:
+      213: 21300508
+    second: nightmare_254
+  - first:
+      213: 21300510
+    second: nightmare_255
+  - first:
+      213: 21300512
+    second: nightmare_256
+  - first:
+      213: 21300514
+    second: nightmare_257
+  - first:
+      213: 21300516
+    second: nightmare_258
+  - first:
+      213: 21300518
+    second: nightmare_259
+  - first:
+      213: 21300520
+    second: nightmare_260
+  - first:
+      213: 21300522
+    second: nightmare_261
+  - first:
+      213: 21300524
+    second: nightmare_262
+  - first:
+      213: 21300526
+    second: nightmare_263
+  - first:
+      213: 21300528
+    second: nightmare_264
+  - first:
+      213: 21300530
+    second: nightmare_265
+  - first:
+      213: 21300532
+    second: nightmare_266
+  - first:
+      213: 21300534
+    second: nightmare_267
+  - first:
+      213: 21300536
+    second: nightmare_268
+  - first:
+      213: 21300538
+    second: nightmare_269
+  - first:
+      213: 21300540
+    second: nightmare_270
+  - first:
+      213: 21300542
+    second: nightmare_271
+  - first:
+      213: 21300544
+    second: nightmare_272
+  - first:
+      213: 21300546
+    second: nightmare_273
+  - first:
+      213: 21300548
+    second: nightmare_274
+  - first:
+      213: 21300550
+    second: nightmare_275
+  - first:
+      213: 21300552
+    second: nightmare_276
+  - first:
+      213: 21300554
+    second: nightmare_277
+  - first:
+      213: 21300556
+    second: nightmare_278
+  - first:
+      213: 21300558
+    second: nightmare_279
+  - first:
+      213: 21300560
+    second: nightmare_280
+  - first:
+      213: 21300562
+    second: nightmare_281
+  - first:
+      213: 21300564
+    second: nightmare_282
+  - first:
+      213: 21300566
+    second: nightmare_283
+  - first:
+      213: 21300568
+    second: nightmare_284
+  - first:
+      213: 21300570
+    second: nightmare_285
+  - first:
+      213: 21300572
+    second: nightmare_286
+  - first:
+      213: 21300574
+    second: nightmare_287
+  - first:
+      213: 21300576
+    second: nightmare_288
+  - first:
+      213: 21300578
+    second: nightmare_289
+  - first:
+      213: 21300580
+    second: nightmare_290
+  - first:
+      213: 21300582
+    second: nightmare_291
+  - first:
+      213: 21300584
+    second: nightmare_292
+  - first:
+      213: 21300586
+    second: nightmare_293
+  - first:
+      213: 21300588
+    second: nightmare_294
+  - first:
+      213: 21300590
+    second: nightmare_295
+  - first:
+      213: 21300592
+    second: nightmare_296
+  - first:
+      213: 21300594
+    second: nightmare_297
+  - first:
+      213: 21300596
+    second: nightmare_298
+  - first:
+      213: 21300598
+    second: nightmare_299
+  - first:
+      213: 21300600
+    second: nightmare_300
+  - first:
+      213: 21300602
+    second: nightmare_301
+  - first:
+      213: 21300604
+    second: nightmare_302
+  - first:
+      213: 21300606
+    second: nightmare_303
+  - first:
+      213: 21300608
+    second: nightmare_304
+  - first:
+      213: 21300610
+    second: nightmare_305
+  - first:
+      213: 21300612
+    second: nightmare_306
+  - first:
+      213: 21300614
+    second: nightmare_307
+  - first:
+      213: 21300616
+    second: nightmare_308
+  - first:
+      213: 21300618
+    second: nightmare_309
+  - first:
+      213: 21300620
+    second: nightmare_310
+  - first:
+      213: 21300622
+    second: nightmare_311
+  - first:
+      213: 21300624
+    second: nightmare_312
+  - first:
+      213: 21300626
+    second: nightmare_313
+  - first:
+      213: 21300628
+    second: nightmare_314
+  - first:
+      213: 21300630
+    second: nightmare_315
+  - first:
+      213: 21300632
+    second: nightmare_316
+  - first:
+      213: 21300634
+    second: nightmare_317
+  - first:
+      213: 21300636
+    second: nightmare_318
+  - first:
+      213: 21300638
+    second: nightmare_319
+  - first:
+      213: 21300640
+    second: nightmare_320
+  - first:
+      213: 21300642
+    second: nightmare_321
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: nightmare_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1737
+        width: 92
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ea8ac4a7f440445be0d020e2997acf
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_1
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1856
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c158c9534ed06004ca81afc901faa2fd
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_2
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1736
+        width: 93
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ed5285bb4e8704d86dcc07b9c44f3b
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_3
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1737
+        width: 94
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8da80b82e3718d478ebffb35fc74186
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_4
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1740
+        width: 88
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7e0a449abdcb14582f5b105fabea41
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_5
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1854
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f28e199f17407c4aa0063dd653b01e7
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_6
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1730
+        width: 97
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297f83effff617e41aa50bfc32290571
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_7
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1733
+        width: 97
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c390dc1e3cfa7f54ab628f5a6523b07a
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_8
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 1731
+        width: 102
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65517db08c79fd14c84cf8806d59b647
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_9
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1850
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8641212b8e45cb543aac3e9c910881c3
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_10
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1850
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b9ec08b27175d43b818dd417e4cc97
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_11
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 1728
+        width: 96
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1a1a370c073084ea0e9a9cdb4a9aea
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1829
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6da2d0618c525540ad3d83fb0ff63ab
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_13
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 1804
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e803fbffb43ec6148bfc17a4f229c2d0
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_14
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1764
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ea2d2b606d5a94b8d4ecdbd356968a
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_15
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1759
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a74435848ca23147b242973705c5e26
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_16
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 1743
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29597c01757866947a57459e517055e2
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_17
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 1739
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2fd1d410bf86c4599c0dc87d8124f2
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_18
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1720
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70b4c2b4fa13884c850ea23dd4033b0
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_20
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1612
+        width: 117
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fead73092127d0149bdbf519acea85d6
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_21
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1619
+        width: 116
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7403b0efb020c41428b582940480bb3c
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_22
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1617
+        width: 122
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c36b19d15705940b1510878d313dca
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_24
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1720
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6552b57559b034da7113a0de50bd47
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_25
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1717
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5890836aa17447144b713f8eaeba9cd0
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_26
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 1611
+        width: 128
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb1b688d5802d7438f9bd126c2444fa
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_27
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1603
+        width: 117
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4d17b9683c18846bc56a5ef856f32c
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_28
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1709
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8a3e1c49fcab64e9025674b0d1c7a3
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_30
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1611
+        width: 130
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f444eea8cb18fd428eeba13b397ec74
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_31
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1709
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274ab415f21f6fb4a95ee8299ed34d94
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_32
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1709
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68268b93bdd514439f35b754c4b2424
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_33
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1691
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912b4e9b20f2dd2479006ea24ef3536d
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1466
+        width: 112
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df7cb4174db42244f9f71370a781a0fe
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_41
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1581
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792e6b5c08aca5e4e949dde6117cfd25
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_42
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1462
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50150ad0e8faf0e4a956f1ffa68c3432
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_43
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1454
+        width: 120
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b138d531bbce15d45937dc13ef9fecaa
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_44
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1574
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fecb7329f6387645940d22a445983b2
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_45
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1574
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5330c07f28a20fd4b97c9aaa8526ab34
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_46
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1468
+        width: 124
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a2f70921e620344ae645a6d13eb48a
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_47
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1474
+        width: 125
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8efe777dc692d534082bac23aa6796e2
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_48
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 1478
+        width: 125
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99201bc03bd2d142a421d9331b26119
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_49
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1574
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e4067d240d191418a6c24f64ce16ca
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_50
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 1574
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0543f4eedff72c44b0445c86178425a
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_51
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1574
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfee19b922926f9459977b1393b045d2
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_52
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1515
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b967c012f05bcb34199fe29f0fc67c51
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_53
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 1509
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cffa0f93eb6c0446bb7156e9ea8d091
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_54
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1469
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84296c6bbe88cae48870046d182b6613
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_55
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1474
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6641d08f8435340bf468199f51d144
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_56
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 1469
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9297dd64f06d0074caadec87fd04db9e
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_57
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 1471
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963ebe99b595d73468eb8abba114c90f
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_58
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1276
+        width: 117
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce93c4cb1030ef24c838c2b2b4c6d9c9
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_59
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1423
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2b7b03a17c34c4db8c0001b2f3e279
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_60
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1416
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ecfc430f40b9542a11a1629a9c074c
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_61
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1386
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3c513c81b83a846947378cf5e65150
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_62
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1300
+        width: 142
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b253e0fd702c41d4bac0ecb0351b991b
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_63
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1396
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785ade60e767a604980795878638d05b
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_64
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1415
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fde0396ceb577a4d8d5152867ade52d
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_65
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1394
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad819b9e41bf8449a5ec93283b9a4ad
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_66
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1376
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6c0fb45b0eaf549991eac0f011b70c
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_67
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1357
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce71a2517b034b43b9e52d6967c9664
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_68
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1213
+        width: 101
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beae15eeba1f9d04a922cc07a52bc83f
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_69
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1378
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958f25deb2b561342bcfe482d31982ac
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_70
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1375
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2202005ad9fbc41969457e85210d10
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_71
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1376
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc16592a26b799b438567742104288b5
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_72
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1381
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c5d4afc46b16a84b9ec333114794f96
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_73
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1366
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02e7df09ba3a9a4395aa1b11e29a960
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_74
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1360
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18a07f8c141006489ed222e96178f01
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_75
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1198
+        width: 107
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f7aa251fb3040479fa305d5d8d5a0e
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_76
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1094
+        width: 186
+        height: 279
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae2d351942246748a4859970f075df4
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_77
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1338
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7573a7bbb5c26064bac8e94f116da73e
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_78
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1333
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5696c71d7776c446869b9c1d57af524
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_79
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1340
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f0aeecf53f97b4095877e433b5f110
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_80
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1317
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b47a374d6568248b8a85656175a161
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_81
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1345
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33aa5fbe43b5ea34d82a79c0935b5ecb
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_82
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1342
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46741bce121401348ad2b0dc3ffda446
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_83
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1334
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bbcdcaa5bf8d764ca3fce28a15db31d
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_84
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 1337
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f096d9433c6ca45a1ce8dff7de18e6
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_85
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1330
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9524ec282db66bd469258f04bd6275ff
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_86
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 1322
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb65d2a5f626d6448ccc93ccf29e546
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_87
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1321
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d2add246778cc4982c6059732047da
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_88
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1301
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c8bdaa55bca93469cfdb32e5c8cca4
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_89
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1307
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db01a1ccc388d5745a5b9f181324f800
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_90
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 1298
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145c2828282c5154d84973d547245c71
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1059
+        width: 142
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc70279ec6710b34f8d5d72dd32491ef
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_92
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1190
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941b8f6d9aeeec342a43d889f45dbd99
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_93
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1181
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fecbfae349930c42972c25ce1a840ac
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_94
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 1190
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9e50ae330f8fd4ca3c42aad379b0e5
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_95
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1184
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647757c4c6ecb9149b8177f7c6a5e877
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_96
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1098
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a6a3344f2f36746980709f3825edf6
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_97
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1161
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eba4dcfff4c9934eab1893c0bddf8f3
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_98
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1154
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75a2cc56fe57c14a8a499803bf41be0
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_99
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1151
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b3288a40e985e41a4bfb1a9ac52206
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_100
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1159
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5d0bf6955babe48b7f34905a18a6a0
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_101
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1146
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38279d3d8cc10b64ba81e71564b692a6
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_102
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1145
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f007e61773d8741af91d2465775ecc
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_103
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1161
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0fbd22383debc47abb1d5e09eb4d64
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_104
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1152
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a07fad09abe834c8a93815109c12fb
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_105
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 958
+        width: 92
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe426b395d1839f4bbeed82367df7c6d
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_106
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 966
+        width: 99
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddbc0b36389cb5847ab7894c70bb6158
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_107
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1137
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7409d58c06d058d4a839f8ccd35d9ad6
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_108
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1113
+        width: 13
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81402102a689c046b574ed32e82a2d4
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_109
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 1131
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366126f61437dd7498e0f6a9af22abf2
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_110
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1139
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747e7f97b8b669744a11206ec6fe3c64
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_111
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 966
+        width: 102
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692471f1dd25083449ac56d1c668beb2
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_112
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1137
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36beae50f5071954d89ba1c151a8818f
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_113
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 968
+        width: 103
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82145b9a16f54644683895526c251b9d
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_114
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1131
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517fb051f2b0cdd4bae2ccb378b0e328
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_115
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1089
+        width: 62
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08e6ae4d38151648bdefd57996b83fc
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_116
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1112
+        width: 4
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ccd47d553210147a84d6352a05685c
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_117
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1115
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484267ca1e53b874ea2798bd08837fa9
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_118
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1119
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba102d6fb62ad044bf68a60fc26e1cb
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_119
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1121
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a7f299be7ce6e45ada7fdf6b6694fd
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_120
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1088
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9320ebb031d4a6a47aa1c34bbb42f580
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_121
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1103
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976cb6b3555af9645b8d3d832e83f297
+      internalID: 21300242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_122
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1110
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5edfebabd7447458f3af4f0ff5f7d3
+      internalID: 21300244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_123
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1112
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d0393c05aeded4daca4821718c1fc8
+      internalID: 21300246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_124
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1100
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4b55be6556707499ec63dc755810c7
+      internalID: 21300248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_125
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1103
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37baaf74cd9420d40a228ff499dc8f59
+      internalID: 21300250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_126
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1101
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5f6223ecea8d647bb5d1dfebb27aed
+      internalID: 21300252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_127
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1097
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0f68c7a9d3a5746818cc14af849dc2
+      internalID: 21300254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_128
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1094
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3442a49eebb09804987ed30152c8ada8
+      internalID: 21300256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_129
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1086
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d9705fcae88114d9188b66a81b21c9
+      internalID: 21300258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_130
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1081
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0f9c4305c364c4785fe18ecd25cf36
+      internalID: 21300260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_131
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1074
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a8fc0cfeb062848a70bde1a7b7ebce
+      internalID: 21300262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_132
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1088
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e6b9ffd30008645a9f1a1e3a59be4f
+      internalID: 21300264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_133
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1070
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62755bdabf7d18c41897f3987eb6017e
+      internalID: 21300266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_134
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1078
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99bcb3d5942dd04b801b15cc74fd5b9
+      internalID: 21300268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_135
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1078
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1f6045f0327fd44ba0be7e75ec44d3
+      internalID: 21300270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_136
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 810
+        width: 109
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99011a9d752ebd34a9b38ed908c86158
+      internalID: 21300272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_137
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 949
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1184349b245c3f438e206f685371bef
+      internalID: 21300274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_138
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 912
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac16e42a917b3644854e5c0735c10ad
+      internalID: 21300276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_139
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 826
+        width: 148
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310cc2d38c5df07429522e83be9a6883
+      internalID: 21300278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_140
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 731
+        width: 161
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5206d76d7b0edfe4fbce2facc3e29909
+      internalID: 21300280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_141
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 935
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bef9e3887651f949a7ec12a2ad8d1d2
+      internalID: 21300282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_142
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 942
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684ecb2ca72bd1248ac7dea8859310ed
+      internalID: 21300284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_143
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 909
+        width: 14
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b66821cdb22b644881cb81363c01487
+      internalID: 21300286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_144
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 893
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3153b24e36cad43a3188e5211cedd6
+      internalID: 21300288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_145
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 906
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92587a056ab3f44195a99538609807f
+      internalID: 21300290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_146
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 907
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db8257077b93a146813b0d5676628c5
+      internalID: 21300292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_147
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 902
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69fbf6b0865e7c94e9907b33b81d1517
+      internalID: 21300294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_148
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 901
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c210142666e8684aa24db7a92bcbdeb
+      internalID: 21300296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_149
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 904
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e138617e2db13469b5d72681242a66
+      internalID: 21300298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_150
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 880
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc30c5779481a646b64dde6cebf6b90
+      internalID: 21300300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_151
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 882
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa6e2b45b62a654580ecaea3bf0d220
+      internalID: 21300302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_152
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 884
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15d599fe9131e045971892a330b174f
+      internalID: 21300304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_153
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 886
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d205006f0dd61c46862068f95f9db1a
+      internalID: 21300306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_154
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 880
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83d93cfecfb0324cae814d0d04f5e81
+      internalID: 21300308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_155
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 883
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a41806fa5df6c54699c0845109dc1c0
+      internalID: 21300310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_156
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 691
+        width: 118
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79a42cb7aa320949b7f2ff47c64c23b
+      internalID: 21300312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_157
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 874
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d755571f5806d4fb1a9017b4001a43
+      internalID: 21300314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_158
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 890
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eec9a04729fec44eb93cfa3ec69b411
+      internalID: 21300316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_159
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 731
+        width: 109
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f41b5e5d8c5814999574e5a8493270
+      internalID: 21300318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_160
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 741
+        width: 111
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e773493426fa441aba2c87fb8aabd5
+      internalID: 21300320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_161
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 873
+        width: 31
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09b315f7ef261b468bad04ae962cdaa
+      internalID: 21300322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_162
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 858
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f635f2cbecdb34a9777197ddd41968
+      internalID: 21300324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_163
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 867
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a850d93a3ed0e7d45b0bad227ce401bf
+      internalID: 21300326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_164
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 865
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b6c4492638a4d429c2212972f5d46b
+      internalID: 21300328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_165
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 871
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc014ec75bcbb4488631e7d4570e327
+      internalID: 21300330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_166
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 843
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25c8adb9f03b004e9d68da2e64fe9fd
+      internalID: 21300332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_167
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 850
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46c4d77832adcb4cbb49a1b1a046db0
+      internalID: 21300334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_168
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 853
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50826b4c333ff0b42846100f75f4d4cb
+      internalID: 21300336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_169
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 860
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527d9d284d5ab6e4b82814ac3a08a178
+      internalID: 21300338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_170
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 847
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12db6eca9d8705a45a8b99fdb09179f5
+      internalID: 21300340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_171
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 845
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2377a7b982355744f80886f1f919231e
+      internalID: 21300342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_172
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 827
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2fa185bd1873ca418a3006aa0cfeae7
+      internalID: 21300344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_173
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 843
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67bcea2b1efe78e42b0aaa3c1cb305c7
+      internalID: 21300346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_174
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 824
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171d364c1b2d5c4489638c378a23acbc
+      internalID: 21300348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_175
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 705
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72df0256e7ee11a4fad9bab838e663d3
+      internalID: 21300350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_176
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 714
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81861e473ee507247b7080cb6ad09c72
+      internalID: 21300352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_177
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 678
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da6f63fce3ae374e90b092335e2a745
+      internalID: 21300354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_178
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 662
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7c1896c5366a347895692dbebcc13a
+      internalID: 21300356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_179
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 706
+        width: 57
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8e04686a6f50e44ab7c4d623afbb82
+      internalID: 21300358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_180
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 680
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a904143fcc2fb4095c62de278c1696
+      internalID: 21300360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_181
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 709
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 542223c1d0bb2234aacc0bdc72ffa3ce
+      internalID: 21300362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_182
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 685
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddaac701927af6a4f96b573a2fb48b97
+      internalID: 21300364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_183
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 692
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb43af2e2c78f254ba01fb2e4455fa6d
+      internalID: 21300366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_184
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 646
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e2994fce62fd14b819c7f5e163c230
+      internalID: 21300368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_185
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 683
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0828f514a117f24082cba6a6b997264
+      internalID: 21300370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_186
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 679
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad117b3042ed71d4796bc4f7533bdb40
+      internalID: 21300372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_187
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 680
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278acdab422bdaf47be529cf1654878a
+      internalID: 21300374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_188
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 508
+        width: 142
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1bf94bfa47647448ef6770d74543e9
+      internalID: 21300376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_189
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 677
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8cdbc1ab313294ebefd7a37f777e24
+      internalID: 21300378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_190
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 501
+        width: 115
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ecbda1a8a7b8754daaa3ba4d747dca6
+      internalID: 21300380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_191
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 497
+        width: 165
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69bdd8d2f00154b4d97356994849257a
+      internalID: 21300382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_192
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 667
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1486ab3fec15b08439b6b20ea651ee83
+      internalID: 21300384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_193
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 643
+        width: 10
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8add7ec437086a749809ac21e4c2c2ea
+      internalID: 21300386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_194
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 634
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8f63541ac606c408bdae93c412da86
+      internalID: 21300388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_195
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 655
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a99899b99db067428be021c5af4d123
+      internalID: 21300390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_196
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 643
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f95ec5ae7a830f4eaf202e846aefce0
+      internalID: 21300392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_197
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 639
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac583a6e32d5ff34184bd8b659f1b636
+      internalID: 21300394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_198
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 636
+        width: 4
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739bbb00424190040860ddea069082f1
+      internalID: 21300396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_199
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 588
+        width: 92
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d5173a4415e324f98dcde74e28d718
+      internalID: 21300398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_200
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 629
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19914662f476dc246a37904df6779148
+      internalID: 21300400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_201
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 612
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87023821cd0ddb949899cbfd1b48f28a
+      internalID: 21300402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_202
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 631
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f12baf72b435c4b8bae800f7c45e2b
+      internalID: 21300404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_203
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 610
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a22fe61a29a8924098646d5dd9aae1a
+      internalID: 21300406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_204
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 626
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17edcf8e6adac7f43a1c15d8387b3814
+      internalID: 21300408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_205
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 621
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2024c2447b45241b263235301b9260
+      internalID: 21300410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_206
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 625
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5cb8078abb9064478feff08dfd2c433
+      internalID: 21300412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_207
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 620
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72c25323d09e294784177296f5d3dcb
+      internalID: 21300414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_208
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 616
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7016c36cf30d21c4b89f60fa95864cc4
+      internalID: 21300416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_209
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 600
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab13baff40a8b645b36e1060caf5bae
+      internalID: 21300418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_210
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 602
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b0ad51d75752746a2b1fb1f1a702b6
+      internalID: 21300420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_211
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 605
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20eccba42b7b654bb98cf61f384fc87
+      internalID: 21300422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_212
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 593
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4f897b7bb898a4691853a3dae87769
+      internalID: 21300424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_213
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 597
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33420d3eea8c0da41a9bfb6476f7b1e4
+      internalID: 21300426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_214
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 581
+        width: 41
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656be6fb1d950014eb9b2a7645243c9a
+      internalID: 21300428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_215
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 478
+        width: 41
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc6e7096ff3814846aa9f76518eba91a
+      internalID: 21300430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_216
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 328
+        width: 95
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7abe7d2d0b54d2e42a8493f814025901
+      internalID: 21300432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_217
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 343
+        width: 92
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5700cf5132231c4292c6949a3b17c8a
+      internalID: 21300434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_218
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 476
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7194b9538253b7d46b8e3ccf783d7354
+      internalID: 21300436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_219
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 370
+        width: 104
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7587f7cc8402749bbc7db8e60f146e
+      internalID: 21300438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_220
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 471
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3de767e21c173c488936fef88c77b9b
+      internalID: 21300440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_221
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 471
+        width: 38
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b336b71e1ae9e5d4e97f6769d19f5a08
+      internalID: 21300442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_222
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 424
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7ab86a8ea82744cba85b66b17631a1
+      internalID: 21300444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_223
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 336
+        width: 150
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b3ae54b8b6b6c4988d20c5eddf570b
+      internalID: 21300446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_224
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 458
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1fd36e8200ff3459672711fe3068e2
+      internalID: 21300448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_225
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 451
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aebefab4f3de9247894a621e26f7151
+      internalID: 21300450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_226
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 416
+        width: 70
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff93111ec7bfa44589c7c8cc5458454
+      internalID: 21300452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_227
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 456
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7247aaec88ce34c8edb07564868fec
+      internalID: 21300454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_228
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 435
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f88dd00f7d02bb748868db0f45be246c
+      internalID: 21300456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_229
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 421
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589be8b678b78124f85c69f77858fac7
+      internalID: 21300458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_230
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 439
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273bf5c42146e194aa0ff90f55c8b7bd
+      internalID: 21300460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_231
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 423
+        width: 4
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9fe690a9110a574f90f395ed1d294d1
+      internalID: 21300462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_232
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 413
+        width: 8
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaaeabe10821ea5439e481a5de6b6dc9
+      internalID: 21300464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_233
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 418
+        width: 4
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66c700478909454db51ca3d858e1f5f
+      internalID: 21300466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_234
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 431
+        width: 4
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 849a0a8052e8e834cb782de2de440093
+      internalID: 21300468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_235
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 412
+        width: 8
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f50e745e49bfb4fae3358267a43843
+      internalID: 21300470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_236
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 430
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fbc0ac276dd34e42bd182eb0b50b8af
+      internalID: 21300472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_237
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 418
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba35aceb5b20ef94cb809cad1cb12346
+      internalID: 21300474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_238
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 427
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4480729a48dd35c4d9ed1b1684596458
+      internalID: 21300476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_239
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 357
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d01cb417ec3dd4a951208c92ef0a24
+      internalID: 21300478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_240
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 388
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41a244d3231a6b45805994a30c5f6f0
+      internalID: 21300480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_241
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 349
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de817028fcc709a43bc89a8204d3f244
+      internalID: 21300482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_242
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 390
+        width: 10
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6611a875e1c23874fbb5c2fb932de6dc
+      internalID: 21300484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_243
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 399
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4db7d214816524aac8bba00662b9aa
+      internalID: 21300486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_244
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 400
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de082c969ccd7df4e847097564eb03e4
+      internalID: 21300488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_245
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 378
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b51f096805eee4784edc34b879e20d
+      internalID: 21300490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_246
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 344
+        width: 57
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a52c2e8cc9dcd44a5abf6e657ee4f8
+      internalID: 21300492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_247
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 111
+        width: 95
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42e676c2fe608040bc6a38247058744
+      internalID: 21300494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_248
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 167
+        width: 25
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a63e33ba23e6bb438061370916bb27b
+      internalID: 21300496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_249
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 218
+        width: 7
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ab5a0883396564ab3823d59fa5c2e7
+      internalID: 21300498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_250
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 183
+        width: 28
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb36e3f4f1af9f4f9e9eb811e5cc3ad
+      internalID: 21300500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_251
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 184
+        width: 92
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ef5b7700d105048bf4adfa2d89109d
+      internalID: 21300502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_252
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 231
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4083645a71a4704f8e042506faa5741
+      internalID: 21300504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_253
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 232
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a828ef157a58444e8805f89dcf34a4b
+      internalID: 21300506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_254
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 226
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d687fac2e1d7b794c9a50a850b5b99c1
+      internalID: 21300508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_255
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 234
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dde0ae25b0636b4d816554ae92fcf36
+      internalID: 21300510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_256
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 228
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c607f5899382d449bdaf0543f46ab2
+      internalID: 21300512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_257
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 220
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8610ec82a75248542a601fcac0cec7f3
+      internalID: 21300514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_258
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 227
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a431e85b77291484d9dfd4c1337077e0
+      internalID: 21300516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_259
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 217
+        width: 112
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf6e0c7aa333154ea9956b4549e619f
+      internalID: 21300518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_260
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 228
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d042ed11877d9429a2fbc9b0f83ecf
+      internalID: 21300520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_261
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 227
+        width: 60
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ee1fff9e03e8c4bb8af7a99204b320
+      internalID: 21300522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_262
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 151
+        width: 11
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6edd889e57cd52d40b50b331902b0a80
+      internalID: 21300524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_263
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 159
+        width: 4
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c84729ad709a3b4ca0fb592ea7a163e
+      internalID: 21300526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_264
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 126
+        width: 63
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f72635807021247ba14f5798a7120d
+      internalID: 21300528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_265
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 186
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb09c550e305b6c4dafc2918579b8047
+      internalID: 21300530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_266
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 185
+        width: 9
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae5755f65e806640b83f4458a2550a9
+      internalID: 21300532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_267
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 161
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2419de6cef0f82742aef76bec2d2ce4c
+      internalID: 21300534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_268
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 131
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e200e78c289079646afe78545633f4fb
+      internalID: 21300536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_269
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 134
+        width: 6
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac142c41ec461443a0e1ce078387cbb
+      internalID: 21300538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_270
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 134
+        width: 7
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18bcf1e9ff8bcf40a7f390706a88235
+      internalID: 21300540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_271
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb5fa1c618473948b4cf122d968713b
+      internalID: 21300542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_272
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 3
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f355d629461c447b416bd430cadddb
+      internalID: 21300544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_273
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 3
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a7692e3d77e0345a6070909e618b9c
+      internalID: 21300546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_274
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 2
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5cc5cac2c24c348914deb3b7ee6b5c
+      internalID: 21300548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_275
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 3
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4257f16f05c34bb4385fa1e90cd561f2
+      internalID: 21300550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_276
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 3
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c16d0efeca8bb4c9f983186a44fa7e
+      internalID: 21300552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_277
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 3
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6fe74dae663094ea2085d5876bdea2
+      internalID: 21300554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_278
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 3
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307dc611030c4cd498fce81591d4ce73
+      internalID: 21300556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_279
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 3
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b999bd05d0e5ca94aa1417c7dbdaa63c
+      internalID: 21300558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_280
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 3
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78c629002f377a45988e48aa302678d
+      internalID: 21300560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_281
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 3
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9544995a94db6541ac576442fde6bed
+      internalID: 21300562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_282
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 3
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108b90f3ed46afa40b7d72b8164aebb7
+      internalID: 21300564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_283
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 3
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9257989ec6ff7c749a7cb38a28f78984
+      internalID: 21300566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_284
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 3
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc2716642d782645b0eb8faf12aec95
+      internalID: 21300568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_285
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 3
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e13b02d588925848a74a53c9427a54f
+      internalID: 21300570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_286
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 3
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30713291a7c79d4db81110b1fb77ab9
+      internalID: 21300572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_287
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 3
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f1a5c4d0e150c4c8c30fcd285c08b0
+      internalID: 21300574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_288
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 3
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98461be17d49774da94c8ad517e85a6
+      internalID: 21300576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_289
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 3
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417c350523e078b478cafaeb3994a133
+      internalID: 21300578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_290
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 3
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151c02e54616ce649ac4124e54d81b6e
+      internalID: 21300580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_291
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 2
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53147b6948b11540970fdb712f3aaf8
+      internalID: 21300582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_292
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 3
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26dc34b112fdea341ab73b4faf541fe2
+      internalID: 21300584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_293
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 2
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6057aac45769644f9d50bde711d8e7e
+      internalID: 21300586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_294
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 2
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fefa806d5f72dea499be907211bf40fe
+      internalID: 21300588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_295
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 3
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6b344d0bcc0f541bc778ad3a66d673
+      internalID: 21300590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_296
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 3
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e7928d8b05c30542a6d3841f8fef6f4
+      internalID: 21300592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_297
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 3
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72fdba765aed1bc468fa6d8242b86b83
+      internalID: 21300594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_298
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 3
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efbddad279ce44b49bfa4383d6a52e0c
+      internalID: 21300596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_299
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 3
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8723c22c09091d4abc3f26a803a1ddb
+      internalID: 21300598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_300
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 3
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e730b4d5537ccf54dba228a559b67ee2
+      internalID: 21300600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_301
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 3
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6dbd36d640139f4fac5b9689f469370
+      internalID: 21300602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_302
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 2
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa52e8a048dccd3428bae1f0c67019aa
+      internalID: 21300604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_303
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 3
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8026c632c7c5d49949e0f1e5b65e2e
+      internalID: 21300606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_304
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 3
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 498b787ecbdbd464e85662dd9e976646
+      internalID: 21300608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_305
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 3
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2a099371dcd364ba800d5aabd4bb77
+      internalID: 21300610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_306
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 3
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710f92aa973daa345b01affa0e376c93
+      internalID: 21300612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_307
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 3
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7744e799bca804e9056fac709f550d
+      internalID: 21300614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_308
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 2
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6b6347839b9a74ba9ff61d72816629
+      internalID: 21300616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_309
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 3
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787c316ec304f4546beab3f1aec2fb17
+      internalID: 21300618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_310
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 3
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09ed1463d88a0e459c845c1588ff7d6
+      internalID: 21300620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_311
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 3
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508a55c6ab73b5643840ca32abc79436
+      internalID: 21300622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_312
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 3
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180521c489b33194885fae7d3db65523
+      internalID: 21300624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_313
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 3
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde3e35b8a46f084fbc1ec4866727407
+      internalID: 21300626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_314
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 3
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9247cc061f2d2f48afde7986d1144ab
+      internalID: 21300628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_315
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 2
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75196be1ca138374fa7d43edec8c7d4a
+      internalID: 21300630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_316
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 3
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57fa318654823174bad3b877af0c5310
+      internalID: 21300632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_317
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 3
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28da3609755a8f84f82d23d6c80909be
+      internalID: 21300634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_318
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 2
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d483e3792de5446a0ad46a4b6b793b
+      internalID: 21300636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_319
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 3
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c435e40864710d4e9754caf03ffad20
+      internalID: 21300638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_320
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 3
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db32dec702b2d8b47a897584c223f652
+      internalID: 21300640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightmare_321
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 3
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f848315119fa4a40a37bd22ca470f25
+      internalID: 21300642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 82bfd7533371f1648861a3c418cd45a3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
